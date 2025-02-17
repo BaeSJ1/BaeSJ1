@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=300&section=header&text=Welcome!😊&desc=This%20is%20BaeSJ1%20render&fontSize=90" />
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&heigth=300&text=BaeSJ1&animation=fadeIn&fontSize=90)
 
 ## Hi there 👋
 
